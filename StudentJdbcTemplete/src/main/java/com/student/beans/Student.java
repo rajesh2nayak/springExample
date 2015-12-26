@@ -1,7 +1,7 @@
 package com.student.beans;
 
 /**
- * The Class Student.
+ * The Class Student`1.
  */
 public class Student {
 
